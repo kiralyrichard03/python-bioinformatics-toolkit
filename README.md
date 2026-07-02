@@ -22,7 +22,7 @@ Given nucleotide sequences from public databases, what are their compositional p
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-bioinformatics-toolkit.git
+git clone https://github.com/kiralyrichard03/python-bioinformatics-toolkit.git
 cd python-bioinformatics-toolkit
 pip install -r requirements.txt
 ```
