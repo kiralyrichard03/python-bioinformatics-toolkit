@@ -90,10 +90,6 @@ data/             # Demo sequences
 tests/            # pytest suite
 ```
 
-## Limitations
-
-This is a portfolio/educational toolkit, not a production clinical pipeline. ORF detection uses a longest-ORF heuristic; signal peptide prediction is a simple hydrophobicity window scan.
-
 ## License
 
 MIT
